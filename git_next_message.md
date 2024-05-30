@@ -1,9 +1,8 @@
-ENH : UX de Quit Menu
+NEW : UI/UX Main Menu
 
-- Création de l'UX :
- - Cliquer sur No ou Presser Escape: retour au menu principal
- - Cliquer sur Yes : quitte le jeu
- - Hover No : teinture rouge
- - Hover Yes : teinture vert
+- Création d'un titre où l'on pourra mettre le nom du jeu
+- Création de boutons : Play, Options, Quit, Credits
+- Création d'un Play Menu temporaire
+- En attente de la création du Lobby pour pouvoir mettre le widget sur le lobby
 
 FLE
