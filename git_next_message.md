@@ -1,5 +1,7 @@
-ENH : UI Options Audio
+ENH : Volume
 
-- Création d'un slider modifié en style
+- Création de tous les potentielles volumes
+- Création de boutons pour reset les valeurs
+- Créations des fonctionnalités pour changer la valeur du pourcentage quand on touche au slider
 
 FLE
