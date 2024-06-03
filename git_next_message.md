@@ -1,7 +1,7 @@
-ENH : Volume
+ENH : Sounds
 
-- Création de tous les potentielles volumes
-- Création de boutons pour reset les valeurs
-- Créations des fonctionnalités pour changer la valeur du pourcentage quand on touche au slider
+- Création de class Sound pour modifier le volume : GeneralVolume parent de Sound Effects, Emotes, Music ou encore Chat Vocal
+- Création d'un Sound Mixer pour pouvoir gérer les sons
+- Les sliders sont maintenant bien reliés aux différentes classes de sons
 
 FLE
