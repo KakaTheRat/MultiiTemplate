@@ -1,6 +1,5 @@
-NEW : UI Options Menu
+ENH : UI Options Audio
 
-- Création du titre
-- Création de boutons pour la categorie des options
+- Création d'un slider modifié en style
 
 FLE
