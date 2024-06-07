@@ -1,7 +1,6 @@
-ENH : Descriptions
+NEW : UI / UX Graphisme
 
-- Création de widgets pour chaque description de l'audio
-- Création de bouton pour afficher la description en cliquant au niveau des textes
-- Création d'un widget error qui s'affiche quand on oublie de lier un bouton à un widget
+- Création de widgets pour la partie graphisme
+- Création de multiples options pour le jeu avec enregistrement automatique des changements
 
 FLE
