@@ -1,6 +1,6 @@
-NEW : UI / UX Graphisme
+ENH : Description 
 
-- Création de widgets pour la partie graphisme
-- Création de multiples options pour le jeu avec enregistrement automatique des changements
+- Création de widgets de description pour chaque option graphique
+- Création du bouton pour revenir au menu principal
 
 FLE
