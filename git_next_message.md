@@ -1,6 +1,5 @@
-ENH : Description 
+ENH : Controls
 
-- Création de widgets de description pour chaque option graphique
-- Création du bouton pour revenir au menu principal
+- Début des controls
 
 FLE
