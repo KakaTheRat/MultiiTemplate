@@ -1,5 +1,6 @@
-ENH : Controls
+WAR: Pause
 
-- Début des controls
+- Mise en pause du menu options
+- Avant tout merge : remettre la sécurité de steam
 
 FLE
