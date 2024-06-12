@@ -1,8 +1,6 @@
-NEW : UI/UX Main Menu
+NEW : DeathRunner
 
-- Création d'un titre où l'on pourra mettre le nom du jeu
-- Création de boutons : Play, Options, Quit, Credits
-- Création d'un Play Menu temporaire
-- En attente de la création du Lobby pour pouvoir mettre le widget sur le lobby
+- Création d'un level death runner
+- Création de mines terrestre
 
 FLE
